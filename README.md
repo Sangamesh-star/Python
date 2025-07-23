@@ -17,7 +17,7 @@ This repository contains beginner to Advanced level **Python Notes + Code Files*
 | Sl. No. | Topics Name                     | Description |
 |--------:|----------------------------------|-------------|
 | 01 | [First Program:Hello World](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F1_Hello-World.py) | First step into Python – writing and running your first Python program using `print()`. |
-| 02 | Comments | Demonstrates how to write single-line and multi-line comments in Python using `#` and triple quotes. |
+| 02 | [Comments](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F2) | Demonstrates how to write single-line and multi-line comments in Python using `#` and triple quotes. |
 | 03 | Assigning Variables | Covers how to declare and assign values to variables, and understand dynamic typing. |
 | 04 | Data Types | Overview of core data types in Python such as `int`, `float`, `str`, and `bool`. |
 | 05 | Type Checkings | Use of `type()` and `isinstance()` functions to check and verify data types. |
