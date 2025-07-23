@@ -34,7 +34,7 @@ print(is_student)
 
 # Assigning the values to Multiple variables:
 
-#Ex:01
+### Ex:01
  
 ```python
 x = 10
@@ -52,7 +52,7 @@ print(z)
 
 ```
 
-#Ex:02
+### Ex:02
 
 ```python
 x, y, z = 10,20,30
@@ -71,7 +71,7 @@ print(x, y, z)
 
 ```
 
-#Ex:03
+### Ex:03
 
 ```python
 x = y = z = 10 
