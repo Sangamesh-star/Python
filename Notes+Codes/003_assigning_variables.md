@@ -19,7 +19,7 @@ name, height, weight, is_student
 
 "sangamesh", 5.8, 51, True  
 
-#### The program to get Values that are assigned to the variabls
+#### The program to get Values that are assigned to the variabls:
 
 ```python
 
