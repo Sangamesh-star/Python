@@ -10,15 +10,7 @@ is_student = True
 ```
 
 Here,
-## name, height, weight, is_student
-
-are the variables.
-And 
-      •"sangamesh" 
-      •5.8 
-      •51
-      •True Are the values.
-which are assigned to the variables.  
+name, height, weight, is_student are the variables.And "sangamesh", 5.8, 51, True Are the values.which are assigned to the variables.  
 
 
 ```python
