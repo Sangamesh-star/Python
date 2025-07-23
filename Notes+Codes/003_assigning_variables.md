@@ -9,7 +9,7 @@ is_student = True
 
 ```
 
-### Here,
+Here,
 
 ### variables:
 
@@ -19,6 +19,7 @@ name, height, weight, is_student
 
 "sangamesh", 5.8, 51, True  
 
+---
 
 ```python
 
