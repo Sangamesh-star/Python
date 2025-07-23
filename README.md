@@ -1,1 +1,52 @@
-# Repository_18
+# 🐍 Python
+
+## 📘 Introduction
+This repository contains beginner to Advanced level **Python Notes + Code Files** and **Projects** for structured and practical learning. Each topic is written in separate `.py` files with simple examples and explanations. Ideal for absolute beginners and students.
+
+---
+
+## 🧰 Tools and Libraries Used
+- Python (3.x)
+- Built-in Functions and Modules
+- Basic I/O Console (for input/output demonstration)
+
+---
+
+## 📝 Notes + Codes
+
+| Sl. No. | Topics Name                     | Description |
+|--------:|----------------------------------|-------------|
+| 01 | Hello World | First step into Python – writing and running your first Python program using `print()`. |
+| 02 | Comments | Demonstrates how to write single-line and multi-line comments in Python using `#` and triple quotes. |
+| 03 | Assigning Variables | Covers how to declare and assign values to variables, and understand dynamic typing. |
+| 04 | Data Types | Overview of core data types in Python such as `int`, `float`, `str`, and `bool`. |
+| 05 | Type Checkings | Use of `type()` and `isinstance()` functions to check and verify data types. |
+| 06 | Operators | Explains arithmetic, relational, logical, and assignment operators with examples. |
+| 07 | Type Conversions | Covers how to convert data types explicitly using functions like `int()`, `float()`, `str()`. |
+| 08 | User Input/Output Console | Using `input()` and `print()` to interact with users via the console. |
+| 09 | Lists in Python | Learn how to create, access, modify, and use methods with Python lists. |
+| 10 | String Manipulation | Covers indexing, slicing, and common string methods like `upper()`, `lower()`, `replace()`. |
+| 11 | Sets in Python | Introduction to set creation, uniqueness, operations like union and intersection. |
+| 12 | Dictionaries in Python | Covers key-value pairs, dictionary methods, and how to update/access values. |
+| 13 | Conditional Statements | `if`, `elif`, `else` conditions to control flow based on logic. |
+| 14 | Tuples in Python | Working with immutable sequences, tuple packing/unpacking and operations. |
+
+---
+
+## 🛠️ Projects in Python
+
+| Sl. No. | Project Name | Description |
+|--------:|--------------|-------------|
+| 01 | *To be added...* | This section will include beginner-level Python mini-projects. Stay tuned! |
+
+---
+
+## 🌟 Highlights
+
+- 🔹 All fundamental Python topics explained clearly
+- 🔹 Notes + Code format for hands-on learning
+- 🔹 Clean and beginner-friendly file structure
+- 🔹 Can be extended with more topics and real projects
+---
+
+> 📌 Feel free to fork or star this repo. Contributions and suggestions are welcome!
