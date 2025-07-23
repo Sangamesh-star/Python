@@ -16,10 +16,10 @@ This repository contains beginner to Advanced level **Python Notes + Code Files*
 
 | Sl. No. | Topics Name                     | Description |
 |--------:|----------------------------------|-------------|
-| 01 | [First Program:Hello World](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F1_Hello-World.py) | First step into Python – writing and running your first Python program using `print()`. |
-| 02 | [Comments](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F2_Comments.py) | Demonstrates how to write single-line and multi-line comments in Python using `#` and triple quotes. |
-| 03 | [Assigning Variables](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F3_Assigning-Variables.py) | Covers how to declare and assign values to variables, and understand dynamic typing. |
-| 04 | [Data Types](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F4_Data-Types.py) | Overview of core data types in Python such as `int`, `float`, `str`, and `bool`. |
+| 01 | [First Program:Hello World](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F001_hello_world.py) | First step into Python – writing and running your first Python program using `print()`. |
+| 02 | [Comments](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F002_comments.py) | Demonstrates how to write single-line and multi-line comments in Python using `#` and triple quotes. |
+| 03 | [Assigning Variables](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F003_assigning_variables.py) | Covers how to declare and assign values to variables, and understand dynamic typing. |
+| 04 | [Data Types](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F004_data_types.py) | Overview of core data types in Python such as `int`, `float`, `str`, and `bool`. |
 | 05 | [Type Checkings](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F5_types-checkings.py) | Use of `type()` and `isinstance()` functions to check and verify data types. |
 | 06 | [Operators](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F6_Operators.py) | Explains arithmetic, relational, logical, and assignment operators with examples. |
 | 07 | [Type Conversions](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F7_Type-Conversions.py) | Covers how to convert data types explicitly using functions like `int()`, `float()`, `str()`. |
