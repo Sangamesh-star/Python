@@ -18,7 +18,7 @@ This repository contains beginner to Advanced level **Python Notes + Code Files*
 |--------:|----------------------------------|-------------|
 | 01 | [First Program:Hello World](https://github.com/Sangamesh-star/Python-Programming/blob/main/Notes%2F001_hello_world.md) | First step into Python – writing and running your first Python program using `print()`. |
 | 02 | [Comments](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F002_comments.py) | Demonstrates how to write single-line and multi-line comments in Python using `#` and triple quotes. |
-| 03 | [Assigning Variables](https://github.com/Sangamesh-star/Python-Programming/blob/main/Notes%2BCodes%2F003_assigning_variables.md) | Covers how to declare and assign values to variables, and understand dynamic typing. |
+| 03 | [Assigning Variables](https://github.com/Sangamesh-star/Python-Programming/blob/main/Notes%2F003_assigning_variables.md) | Covers how to declare and assign values to variables, and understand dynamic typing. |
 | 04 | [Data Types](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F004_data_types.py) | Overview of core data types in Python such as `int`, `float`, `str`, and `bool`. |
 | 05 | [Type Checkings](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F005_types_checkings.py) | Use of `type()` and `isinstance()` functions to check and verify data types. |
 | 06 | [Operators](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F006_operators.py) | Explains arithmetic, relational, logical, and assignment operators with examples. |
