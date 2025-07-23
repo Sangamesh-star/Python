@@ -9,8 +9,9 @@ is_student = True
 
 ```
 
-## Here,
-name, height, weight, is_student
+Here,
+## name, height, weight, is_student
+
 are the variables.
 And 
       •"sangamesh" 
