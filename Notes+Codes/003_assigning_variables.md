@@ -19,7 +19,7 @@ name, height, weight, is_student
 
 "sangamesh", 5.8, 51, True  
 
----
+The program to get Values that are assigned to the variabls
 
 ```python
 
@@ -36,6 +36,7 @@ print(is_student)
 #O/P: True
 
 ```
+---
 
 # Assigning the values to Multiple variables:
 
@@ -90,6 +91,7 @@ print(z)
 #O/P: 10
 
 ```
+---
 
 ## Variable reassignment:
 We can Assign infinite values to the same variable that is called variable reassignment.
