@@ -44,10 +44,10 @@ This repository contains beginner to Advanced level **Python Notes + Code Files*
 
 ## 🌟 Highlights
 
-- 🔹 All fundamental Python topics explained clearly
-- 🔹 Notes + Code format for hands-on learning
-- 🔹 Clean and beginner-friendly file structure
-- 🔹 Can be extended with more topics and real projects
+- ✅ All fundamental Python topics explained clearly
+- ✅ Notes + Code format for hands-on learning
+- ✅ Clean and beginner-friendly file structure
+- ✅ Can be extended with more topics and real projects
 ---
 
 > 📌 Feel free to fork or star this repo. Contributions and suggestions are welcome!
