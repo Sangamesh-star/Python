@@ -28,8 +28,8 @@ This repository contains beginner to Advanced level **Python Notes + Code Files*
 | 10 | [String Manipulation](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F010_string_manipulation.py) | Covers indexing, slicing, and common string methods like `upper()`, `lower()`, `replace()`. |
 | 11 | [Sets in Python](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F011_sets_in_python.py) | Introduction to set creation, uniqueness, operations like union and intersection. |
 | 12 | [Dictionaries in Python](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F012_dictionaries_in_python.py) | Covers key-value pairs, dictionary methods, and how to update/access values. |
-| 13 | Conditional Statements | `if`, `elif`, `else` conditions to control flow based on logic. |
-| 14 | Tuples in Python | Working with immutable sequences, tuple packing/unpacking and operations. |
+| 13 | [Conditional Statements](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F013_conditional_statements.py) | `if`, `elif`, `else` conditions to control flow based on logic. |
+| 14 | [Tuples in Python](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F014_tuples_in_python.py) | Working with immutable sequences, tuple packing/unpacking and operations. |
 
 ---
 
