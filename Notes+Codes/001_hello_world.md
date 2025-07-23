@@ -12,3 +12,8 @@ print(" Hello, World! ")
 
 #O/P: ' Hello, World! '
 ```
+#### **Syntax**:
+```python
+for item in sequence:
+    # Code to execute for each item in the sequence
+```
