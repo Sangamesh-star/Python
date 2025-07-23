@@ -32,7 +32,7 @@ print(is_student)
 
 ```
 
-#Assigning the values to Multiple variables:
+# Assigning the values to Multiple variables:
 
 #Ex:01
  
