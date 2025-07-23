@@ -30,6 +30,7 @@ This repository contains beginner to Advanced level **Python Notes + Code Files*
 | 12 | [Dictionaries in Python](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F012_dictionaries_in_python.py) | Covers key-value pairs, dictionary methods, and how to update/access values. |
 | 13 | [Conditional Statements](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F013_conditional_statements.py) | `if`, `elif`, `else` conditions to control flow based on logic. |
 | 14 | [Tuples in Python](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F014_tuples_in_python.py) | Working with immutable sequences, tuple packing/unpacking and operations. |
+||||
 
 ---
 
