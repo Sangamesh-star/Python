@@ -1,9 +1,14 @@
+#Assigning Values To The Variables
+
+```python
+
 name = "Sangamesh"
 height = 5.8
 weight = 51
 is_student = True
 
-"""
+```
+
 Here, •name
       •height
       •weight
@@ -15,8 +20,8 @@ And
       •True Are the values.
 which are assigned to the variables.  
 
-"""
 
+```python
 
 print(name)
 #O/P: sangamesh
@@ -30,9 +35,13 @@ print(weight)
 print(is_student)
 #O/P: True
 
+```
+
 #Assigning the values to Multiple variables:
 
-#Ex:01 
+#Ex:01
+ 
+```python
 x = 10
 y = 20
 z = 30
@@ -46,8 +55,11 @@ print(y)
 print(z)
 #O/P: 30
 
+```
 
 #Ex:02
+
+```python
 x, y, z = 10,20,30
 
 print(x)
@@ -62,9 +74,11 @@ print(z)
 print(x, y, z)
 #O/P: 10 20 30
 
-
+```
 
 #Ex:03
+
+```python
 x = y = z = 10 
 print(x)
 #O/P: 10
@@ -75,12 +89,11 @@ print(y)
 print(z)
 #O/P: 10
 
+```
 
-
-"""
 Variable reassignment:We can Assign infinite values to the same variable that is called variable reassignment.
-"""
 
+```python
 x = 10
 print(x)
 #O/P: 10
@@ -100,3 +113,5 @@ print(x)
 x = True
 print(x)
 #O/P: True
+
+```
