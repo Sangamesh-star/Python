@@ -24,10 +24,10 @@ This repository contains beginner to Advanced level **Python Notes + Code Files*
 | 06 | [Operators](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F006_operators.py) | Explains arithmetic, relational, logical, and assignment operators with examples. |
 | 07 | [Type Conversions](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F007_type_conversions.py) | Covers how to convert data types explicitly using functions like `int()`, `float()`, `str()`. |
 | 08 | [User Input/Output Console](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F008_user_input_output_console.py) | Using `input()` and `print()` to interact with users via the console. |
-| 09 | Lists in Python | Learn how to create, access, modify, and use methods with Python lists. |
-| 10 | String Manipulation | Covers indexing, slicing, and common string methods like `upper()`, `lower()`, `replace()`. |
-| 11 | Sets in Python | Introduction to set creation, uniqueness, operations like union and intersection. |
-| 12 | Dictionaries in Python | Covers key-value pairs, dictionary methods, and how to update/access values. |
+| 09 | [Lists in Python](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F009_lists_in_python.py) | Learn how to create, access, modify, and use methods with Python lists. |
+| 10 | [String Manipulation](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F010_string_manipulation.py) | Covers indexing, slicing, and common string methods like `upper()`, `lower()`, `replace()`. |
+| 11 | [Sets in Python](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F011_sets_in_python.py) | Introduction to set creation, uniqueness, operations like union and intersection. |
+| 12 | [Dictionaries in Python](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F012_dictionaries_in_python.py) | Covers key-value pairs, dictionary methods, and how to update/access values. |
 | 13 | Conditional Statements | `if`, `elif`, `else` conditions to control flow based on logic. |
 | 14 | Tuples in Python | Working with immutable sequences, tuple packing/unpacking and operations. |
 
