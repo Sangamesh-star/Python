@@ -6,7 +6,7 @@ print(" Hello, World! ")
 #O/P: ' Hello, World! '
 
 
-
+```
 # 🐍 Python Basics Notes
 
 ## 1. Variables and Data Types
