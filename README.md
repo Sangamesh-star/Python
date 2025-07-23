@@ -21,9 +21,9 @@ This repository contains beginner to Advanced level **Python Notes + Code Files*
 | 03 | [Assigning Variables](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F3_Assigning-Variables.py) | Covers how to declare and assign values to variables, and understand dynamic typing. |
 | 04 | [Data Types](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F4_Data-Types.py) | Overview of core data types in Python such as `int`, `float`, `str`, and `bool`. |
 | 05 | [Type Checkings](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F5_types-checkings.py) | Use of `type()` and `isinstance()` functions to check and verify data types. |
-| 06 | Operators | Explains arithmetic, relational, logical, and assignment operators with examples. |
-| 07 | Type Conversions | Covers how to convert data types explicitly using functions like `int()`, `float()`, `str()`. |
-| 08 | User Input/Output Console | Using `input()` and `print()` to interact with users via the console. |
+| 06 | [Operators](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F6_Operators.py) | Explains arithmetic, relational, logical, and assignment operators with examples. |
+| 07 | [Type Conversions](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F7_Type-Conversions.py) | Covers how to convert data types explicitly using functions like `int()`, `float()`, `str()`. |
+| 08 | [User Input/Output Console](https://github.com/Sangamesh-star/Python/blob/main/Notes%2BCodes%2F8_User-Input-Output-Console.py) | Using `input()` and `print()` to interact with users via the console. |
 | 09 | Lists in Python | Learn how to create, access, modify, and use methods with Python lists. |
 | 10 | String Manipulation | Covers indexing, slicing, and common string methods like `upper()`, `lower()`, `replace()`. |
 | 11 | Sets in Python | Introduction to set creation, uniqueness, operations like union and intersection. |
